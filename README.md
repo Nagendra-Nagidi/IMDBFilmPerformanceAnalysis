@@ -21,6 +21,3 @@ The raw and cleaned tables are visible in their respective sections and can also
 ## Data scope
 
 The collection notebook uses a US + English IMDb title alias as a Hollywood-oriented proxy. This does not establish a film's production country and can include international films. Missing ratings, votes, and runtimes are retained as missing values rather than imputed.
-
-
-## readme change
